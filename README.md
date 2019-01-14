@@ -1,13 +1,13 @@
-#search-engine app
+# search-engine app
 
 
-###run server:
+### run server:
 cd ./search-engine-server;
 
 mvn spring-boot:run
 
 
-###run cli
+### run cli
 cli is running via test: searchengine.cli.CliTest
 
 
